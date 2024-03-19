@@ -1,5 +1,3 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5a562ccfa803bbf984c55f21/1520527444624-H85GYRMX1TAYTE3ZATBQ/apple+developer+academy)
-
 <h1 align="center">Hi 👋, I'm fratbaytas</h1>
 <h3 align="center">A passionate IOS Developer from Türkiye</h3>
 
